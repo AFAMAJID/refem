@@ -48,7 +48,7 @@
           <div class="py-1">
             <div class="row align-items-center">
               <div class="col-2">
-                <h2 class="mb-0 site-logo"><a href="index.html"> refem </a></h2>
+                <h2 class="mb-0 site-logo"><a href="index.php"> refem </a></h2>
               </div>
               <div class="col-10">
                 <nav class="site-navigation text-right" role="navigation">
@@ -58,31 +58,31 @@
                      <!-- d-lg-block -->
                     <ul class="site-menu js-clone-nav d-none">
                       <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                       </li>
-                      <li><a href="sermons.html">Sermons</a></li>
+                      <li><a href="sermons.php">Sermons</a></li>
                       <li class="has-children">
-                        <a href="beliefs.html">Beliefs</a>
+                        <a href="beliefs.php">Beliefs</a>
                         <ul class="dropdown arrow-top">
-                          <li><a href="beliefs.html">God</a></li>
-                          <li><a href="beliefs.html">Humanity</a></li>
-                          <li><a href="beliefs.html">Salvation</a></li>
+                          <li><a href="beliefs.php">God</a></li>
+                          <li><a href="beliefs.php">Humanity</a></li>
+                          <li><a href="beliefs.php">Salvation</a></li>
                           <li class="has-children">
-                            <a href="beliefs.html">Churches</a>
+                            <a href="beliefs.php">Churches</a>
                             <ul class="dropdown">
-                              <li><a href="beliefs.html">America</a></li>
-                              <li><a href="beliefs.html">Europe</a></li>
-                              <li><a href="beliefs.html">Asia</a></li>
-                              <li><a href="beliefs.html">Africa</a></li>
+                              <li><a href="beliefs.php">America</a></li>
+                              <li><a href="beliefs.php">Europe</a></li>
+                              <li><a href="beliefs.php">Asia</a></li>
+                              <li><a href="beliefs.php">Africa</a></li>
                               
                             </ul>
                           </li>
 
                         </ul>
                       </li>
-                      <li><a href="events.html">Events</a></li>
-                      <li><a href="about.html">About</a></li>
-                      <li class="active"><a href="contact.html">Contact</a></li>
+                      <li><a href="events.php">Events</a></li>
+                      <li><a href="about.php">About</a></li>
+                      <li class="active"><a href="contact.php">Contact</a></li>
                     </ul>
                   </div>
                 </nav>
